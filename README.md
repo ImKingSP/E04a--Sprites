@@ -1,1 +1,1 @@
-# E04a--Sprites
+This assignemnt completes the given requirements for E04a-sprites.  I have edited main1.py, 2, and 3 but was unable to update main4.py.
